@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../demomybatis/mybatis-3-master/mybatis.iml" filepath="$PROJECT_DIR$/../../demomybatis/mybatis-3-master/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../demomybatis/parent-master/mybatis-parent.iml" filepath="$PROJECT_DIR$/../../demomybatis/parent-master/mybatis-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../demomybatis/spring-master/mybatis-spring.iml" filepath="$PROJECT_DIR$/../../demomybatis/spring-master/mybatis-spring.iml" />
+    </modules>
+  </component>
+</project>
